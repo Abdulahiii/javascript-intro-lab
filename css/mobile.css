@@ -83,7 +83,9 @@ nav ul li a {
 }
 .blueBack {
   background-color: #163b59;
-  color: #fff;
+}
+.reset {
+  background-color: white; /
 }
 .error {
   color: #be1c26;
